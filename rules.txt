@@ -25,7 +25,7 @@ Fail RP : ma 3andech el 7a9 ta3mel 7aja moch ma39oula wala tehlek l environement
 exp : testa3el telifoun wela radio wenta mcuffy ...
 
 Coherence RP : ma 3andekch el 7a9 ta3mel tasarroufet ma yetmachewech m3a characterek
-exp : character type moghchech wma 3ando ri7 win ydour whowa nhar kamel yfadlek ..
+exp : character type moghchech wma 3ando ri7 win ydour whowa nhar kamel yfadlek wykacha5 ...
       
 
 Force RP : ma 3andekch el 7a9 tet9awa 3la player bech tekhou advantage fi scene
@@ -34,7 +34,20 @@ exp : thezo lel atm bech yejbedlk flous
 	  
 Win RP : Mamno3 takhle9 7ajet moch mawjoudin in game bech terba7 bihom scene
 exp : /do 7sartek wbnit 3lik 7yt
+      3abed yheb yreacti 3lik wenta tab9a fi safe zone ma to5rejech 
 
 
 Combat Logging : Mamnou3 tab9a AFK walla ta3mal ALT-F4 fi west scene
-     	  
+
+Combat Storing : ma 3andekch el 7a9 tohreb l blassa tkhalli ghirek ma ykammalch m3ak scene elli bditoha wala tkhabbi wala tejbed items/vehicle bdit bihom scene
+exp : fi woset el scene temchy t5abi karhbtek wela tejbed karhba o5ra 
+      fi woset el pursit temchy t5abi el itemes wtarja3 lel pursit
+
+Use Rule : ma 3andekch el 7a9 testa3mel rule bech tcouvri beha rou7ek w terba7 negotiation wala scene 
+exp : teprovoqui abed fi safe zone khatr ta3ref ma ynejjem yamalek chy
+      
+      
+Safe Zones : Hospital - Apartement - Police department - Sheriff department + events + central bank + cinema + casino + restaurants + mall 
+(tnejjemch telbes mask walla teprovoqui walla tejbed weapons walla ta3mal illegal deals or scam in safe zone)      
+
+
